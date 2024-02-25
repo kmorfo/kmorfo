@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rlujancreations.es/" target="blank"><img src="https://rlujancreations.es/wp-content/themes/rlujancreationstheme/assets/images/newlogotitle.png" width="200" alt="RLujanCreations Logo" /></a>
+  <a href="https://rlujancreations.es/" target="blank"><img src="https://rlujancreations.es/wp-content/themes/rlujancreationstheme/assets/images/newlogotitle.png" width="300" alt="RLujanCreations Logo" /></a>
 </p>
 
 # 🪪 About Me:
